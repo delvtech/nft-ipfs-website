@@ -1,7 +1,10 @@
 {
   "name": "Elf #1221",
-  "class": "Mage",
   "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
     {
       "trait_type": "Background",
       "value": "Red Portal",

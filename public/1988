@@ -1,7 +1,10 @@
 {
   "name": "Elf #1988",
-  "class": "Mage",
   "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
     {
       "trait_type": "Background",
       "value": "Orange Mist",

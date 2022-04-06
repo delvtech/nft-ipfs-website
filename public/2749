@@ -1,7 +1,10 @@
 {
   "name": "Elf #2749",
-  "class": "Warrior",
   "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
     {
       "trait_type": "Background",
       "value": "Clear Skies",

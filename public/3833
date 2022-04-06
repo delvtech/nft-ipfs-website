@@ -1,7 +1,10 @@
 {
   "name": "Elf #3833",
-  "class": "Cleric",
   "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
     {
       "trait_type": "Background",
       "value": "Blood River",

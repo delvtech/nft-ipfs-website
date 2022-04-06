@@ -1,7 +1,10 @@
 {
   "name": "Elf #1859",
-  "class": "Warrior",
   "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
     {
       "trait_type": "Background",
       "value": "Purple Mist",
