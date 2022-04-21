@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4803",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Jade Staff",
+      "description": "Only the finest tribes of artisans ever possessed the ability to craft such opulent weapons"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Breastplate",
+      "description": "Full-body armor made with the scales of ancient dragons. Although said to still roam the land, nobody has seen them since the fall of Mount Qogs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "061ee2562189a3e0aad71e7c0dc73c0b97830ec2",
+  "elements": "[5,14,5,10,19,3,0,3,0,0,1]",
+  "image": "https://ipfs.io/ipfs/QmeBb7Lk8QCJvRtM67XwaBLaZ5EtAY74czNy1kBnycq7ck?filename=4803.png"
+}

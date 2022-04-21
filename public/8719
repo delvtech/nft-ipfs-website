@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8719",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Right Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Uniform",
+      "description": "Light clothing, good for fast travel. Its yellow color is obtained from the golden sands of the deserts of Etcal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Green in color, often worn by those who experiment with farming"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Yellow",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Side Eye",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "453d8a1c55ed69c5f89a3ac99aa5ae82b0828cb6",
+  "elements": "[3,18,3,30,5,14,11,16,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmX7TsRfhFokPE8nCttLoLFzQ6oYkipnfGvdYBXpGJ58Ba?filename=8719.png"
+}

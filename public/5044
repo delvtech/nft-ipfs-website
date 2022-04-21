@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5044",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Grey in color, often worn by those who have a way with words"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Yellow",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Glance",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "85d43bd5c597579c3174f175cea5a78917a0a4fe",
+  "elements": "[5,8,3,14,10,11,11,6,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmeEsLza2mRm5oDU3e7hnWGTiEEFDSRwaSHKT26UhWiHfQ?filename=5044.png"
+}

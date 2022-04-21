@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6742",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Robes",
+      "description": "Made from a fabric of magically-treated quartz, these robes are said to amplify their wearer\u00e2\u20ac\u2122s magical output"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Yellow",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "f66a4a5f31f17fa9d662f2ef4a6d428e7d8f4531",
+  "elements": "[5,0,0,4,24,9,15,18,5,0,0]",
+  "image": "https://ipfs.io/ipfs/QmUjLC4sUP6rLsQUdwuPLjCHLsf6hspaahdeRmbqmbjaa1?filename=6742.png"
+}

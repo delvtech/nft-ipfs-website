@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9726",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Green in color, often worn by those who experiment with farming"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Blue",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Dark",
+      "description": "Big dark eyes ready to take in all the world has to offer, yet give nothing back"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "b2c4f932a62365b1bde5564a9303fb8783368a7d",
+  "elements": "[7,0,3,25,5,9,12,2,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmTXp622k7WZUgP2XvmK5ZfW2Xg8vCZkNaKgKT1xzk4y1A?filename=9726.png"
+}

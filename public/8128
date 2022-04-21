@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8128",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Bow",
+      "description": "Dark bows draw no attention, allowing their user to slither in the night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Robes",
+      "description": "Made from a fabric of magically-treated quartz, these robes are said to amplify their wearer\u00e2\u20ac\u2122s magical output"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Grey in color, often worn by those who have a way with words"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Pink",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Side Eye",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Nasotube",
+      "description": "Enhanced oxygen filtration conveys a distinct advantage on the battlefield"
+    }
+  ],
+  "hash": "ef2e9763b806d248bf5a0963bf748c7b579c7717",
+  "elements": "[3,2,0,4,10,8,0,7,0,0,2]",
+  "image": "https://ipfs.io/ipfs/QmNVwL2M2Ydt76PFvJbb3BfvpseXbijDf7ESeEg9x6ko3q?filename=8128.png"
+}

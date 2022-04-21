@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9398",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Grey",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap",
+      "description": "Somehow lighter than a feather, the magical stones used in this cap make you feel constantly energized"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "6d2bd38fb77e1063aa43250bdbb75b6e7bfe556b",
+  "elements": "[10,0,4,5,19,11,9,12,2,0,1]",
+  "image": "https://ipfs.io/ipfs/QmaAU2nt4YEPP3jS1YofaB4GUUANZe2cG114jAwHTYKi8z?filename=9398.png"
+}

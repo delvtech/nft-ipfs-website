@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8363",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Left Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. White with wisdom and ancient knowledge"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "c3bd44773feac651257aecd35d3a00327ce4e104",
+  "elements": "[3,15,3,5,16,2,8,18,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmTyauWUmMrfA6f4fHAdFSGbXmJfujPsnQqXx1LPADou5U?filename=8363.png"
+}

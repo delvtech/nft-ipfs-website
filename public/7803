@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7803",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ice Lance",
+      "description": "Songs of old told of weapons made of unbreakable, never-melting ice, carried by elite soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Straps",
+      "description": "Dark straps provide flexibility and function for all kinds of tasks, both day and night"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Blue like the depth of the Sea of Liquidity"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Blue",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Yellow",
+      "description": "Big golden eyes shine with glee and enthusiasm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Nasotube",
+      "description": "Enhanced oxygen filtration conveys a distinct advantage on the battlefield"
+    }
+  ],
+  "hash": "99cfb8ab8d0ee20428ef194deda0d765074d5c76",
+  "elements": "[1,13,5,8,2,3,12,4,0,0,2]",
+  "image": "https://ipfs.io/ipfs/Qma6BMQXRW8VTzWDrLyQL4m9cPkmz7eDcPvhTRcZvMNgvK?filename=7803.png"
+}

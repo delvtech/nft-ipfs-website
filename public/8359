@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8359",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Portal",
+      "description": "Blue portal that transfers users across the many Valleys of Yield and Principal"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Longsword",
+      "description": "An ominous blade that shimmers with imbued power and incantation"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale",
+      "description": "The skin of Elfis whose generations have spent their time among the trees of the Forests of Yield has become green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Green in color, often worn by those who experiment with farming"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Glance",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Earrings",
+      "description": "Studded with golden gems, these earrings make a bold statement"
+    }
+  ],
+  "hash": "920c647fa31c013e1a21d62d96d37e30d847ba40",
+  "elements": "[2,17,2,14,5,11,0,13,0,0,6]",
+  "image": "https://ipfs.io/ipfs/QmaLb5v827SV2gDUnfg3XsJdDQyMFzY4SsFqh4sFg6hXfU?filename=8359.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9018",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Blue Bow",
+      "description": "Markings of tradition adorn this ceremonial bow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "17cf80dbdedfb8e9a623245ae23e9bf606524815",
+  "elements": "[3,1,4,5,15,4,6,3,4,0,0]",
+  "image": "https://ipfs.io/ipfs/QmU5BvkJeyHhm59EX1dhAJbmK1qfzGf6fp9vLSpspAC8jz?filename=9018.png"
+}

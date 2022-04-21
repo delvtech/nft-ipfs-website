@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8156",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Bow",
+      "description": "Dark bows draw no attention, allowing their user to slither in the night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Red in color, often worn by those who possess great stamina"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold",
+      "description": "Eyes as gold as sunlight convey friendliness, but don\u00e2\u20ac\u2122t mistake it for complacency"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "5a844ba703de5b4db7124cff549392aa9bbd330a",
+  "elements": "[3,2,3,25,11,11,8,11,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmXSQ5UYXk4MbcAwEJYHFMwmXYWWdQSKJGD9i8zJgKUSQE?filename=8156.png"
+}

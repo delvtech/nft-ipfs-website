@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8626",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple Mist",
+      "description": "The skies glimmer with mysterious purple vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Uniform",
+      "description": "Light clothing, good for fast travel. Its yellow color is obtained from the golden sands of the deserts of Etcal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Yellow",
+      "description": "Big golden eyes shine with glee and enthusiasm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap",
+      "description": "Somehow lighter than a feather, the magical stones used in this cap make you feel constantly energized"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Earrings",
+      "description": "Studded with golden gems, these earrings make a bold statement"
+    }
+  ],
+  "hash": "ff35f61be200755ea906039afed898d08e6a8723",
+  "elements": "[8,0,5,30,15,6,8,4,2,0,6]",
+  "image": "https://ipfs.io/ipfs/QmScGN1XpAPm4qGTPANDyq6uUfhS1JTrVhk1tVgD4fvqff?filename=8626.png"
+}

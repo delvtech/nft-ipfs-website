@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5356",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple Mist",
+      "description": "The skies glimmer with mysterious purple vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Blue",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Yellow",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Draconic Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "bf5277bd2db46d895a1f0b87c52d14fb5dd24128",
+  "elements": "[8,0,0,25,9,7,3,14,4,0,3]",
+  "image": "https://ipfs.io/ipfs/QmdNKMQXWtFrPL8WFoi6wHRfMRti3vg1E6FPhUgSrWo9H8?filename=5356.png"
+}

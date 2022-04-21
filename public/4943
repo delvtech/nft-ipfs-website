@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4943",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ice Lance",
+      "description": "Songs of old told of weapons made of unbreakable, never-melting ice, carried by elite soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Robes",
+      "description": "Made from a fabric of woven gold, these robes allow their wearer to channel the power of the sun much more effectively"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. White with wisdom and ancient knowledge"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Blue",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Blue",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Glance",
+      "description": "Yellow eyes shine with warmth that makes others more obedient"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "642f6fb460eee3593376740566c4b924a534ce1f",
+  "elements": "[5,13,1,29,16,10,12,17,0,0,5]",
+  "image": "https://ipfs.io/ipfs/QmVruyjyv299cD9wYT3hFQLJZb3uasqzTUrNuVYejvqaQN?filename=4943.png"
+}

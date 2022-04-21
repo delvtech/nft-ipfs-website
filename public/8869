@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8869",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red Portal",
+      "description": "A red portal signifies strife and battle"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Robes",
+      "description": "Made from a fabric of magically-treated quartz, these robes are said to amplify their wearer\u00e2\u20ac\u2122s magical output"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Yellow in color, often worn by those adept at precision work"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold",
+      "description": "Eyes as gold as sunlight convey friendliness, but don\u00e2\u20ac\u2122t mistake it for complacency"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Necklace",
+      "description": "A necklace worn by the attendants of court while plotting political plays"
+    }
+  ],
+  "hash": "7bc35bcdfb8d482193a7c4999584c1421135cb71",
+  "elements": "[9,0,3,4,20,2,1,11,0,0,8]",
+  "image": "https://ipfs.io/ipfs/QmfETJcrURSjTMKipvHAJ53WohWKHX4Kd54o9phod7oz2r?filename=8869.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5365",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Longsword",
+      "description": "A golden blade wielded by someone of high status; or someone who cut them down for it"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Cape",
+      "description": "Traditional ritualistic attire favored by warriors as well as researchers innovating novel farming methods"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Blue",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Golden Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "58ab4feefec87c6374979bbed16e94654a823502",
+  "elements": "[10,10,5,23,9,7,0,15,6,0,0]",
+  "image": "https://ipfs.io/ipfs/QmQTX7QsBbCrjjPqxegbkj1XAvSy1WzUR9k9i72H6zWqLu?filename=5365.png"
+}

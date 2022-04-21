@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5744",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Staff",
+      "description": "A gold-plated staff passed down through generations now serves as a symbol of diplomacy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Uniform",
+      "description": "Light clothing, good for fast travel. Its yellow color is obtained from the golden sands of the deserts of Etcal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Golden Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "8f35e80136835adc954e3acae195d1a7e2548185",
+  "elements": "[10,11,1,30,19,6,8,15,6,0,0]",
+  "image": "https://ipfs.io/ipfs/QmcfbeaB81ouLQrtY5r7jChULJWeJfriqEr1eWmMv2yGUR?filename=5744.png"
+}

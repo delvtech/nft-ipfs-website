@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6473",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Bow",
+      "description": "Dark bows draw no attention, allowing their user to slither in the night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale",
+      "description": "The skin of Elfis whose generations have spent their time among the trees of the Forests of Yield has become green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Yellow",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Side Eye",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "f08f559613bab3c662e7f8059708238daa3cf3fa",
+  "elements": "[7,2,2,25,9,9,3,7,4,0,4]",
+  "image": "https://ipfs.io/ipfs/QmRD1k6Yp3tFvzYtPCjXZbkusyL3MKV7apkn3rNDuu3taZ?filename=6473.png"
+}

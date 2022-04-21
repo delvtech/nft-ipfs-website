@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5249",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Uniform",
+      "description": "Light clothing, good for fast travel. The white color is reserved for explorers who have proven themselves in the Degen Trials"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Blue like the depth of the Sea of Liquidity"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Side Eye",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "873d2dccd59fbff57ea6fbaa353f8743d427dbcf",
+  "elements": "[1,16,1,27,2,3,1,7,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmfGr1d121N4P2U9Ks16HKfMRDi3jKML1bGfeGMH4Q9RjV?filename=5249.png"
+}

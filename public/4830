@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4830",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "d08cda93423e3c472a3517ffda6a81a90de7ded5",
+  "elements": "[1,0,1,5,0,4,13,3,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmP7QaLBQWLtYW1ip33dEetUK2mV9GmTCwAy5nsyRSAX19?filename=4830.png"
+}

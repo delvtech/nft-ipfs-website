@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5394",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Good Night",
+      "description": "A starry night full of pinpoints of distant opportunity"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Uniform",
+      "description": "Light clothing, good for fast travel. Its yellow color is obtained from the golden sands of the deserts of Etcal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Mohawk",
+      "description": "Chaotic golden locks symbolize great power over others, how it\u00e2\u20ac\u2122s used remains to be seen"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting Yellow",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "28d936962d134362817515e4d1b1a04f02cab5c1",
+  "elements": "[4,0,0,30,22,11,7,14,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmYAKAEysmQguDHqZRourjAqz78Rp21HWmzyxzeFTno2Jz?filename=5394.png"
+}

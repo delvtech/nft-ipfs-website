@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6178",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blood River",
+      "description": "Blood river that is shown to those with a future of battle or strife"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Bow",
+      "description": "Dark bows draw no attention, allowing their user to slither in the night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Blue represents liquidity and mastery of diplomacy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Pink",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Yellow",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "28b383fd904366fffe5e840d01e626d1028f7e95",
+  "elements": "[0,2,0,1,0,8,11,12,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmeTxYQV5Vt8UzPtnUPphjKP3RffQh1Tnmqgp9sa4a27he?filename=6178.png"
+}

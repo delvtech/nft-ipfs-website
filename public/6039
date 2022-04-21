@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6039",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Cape",
+      "description": "Traditional ritualistic attire favored by warriors as well as researchers innovating novel farming methods"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Side Eye",
+      "description": "Some elves are always suspicious of their surroundings, and can\u00e2\u20ac\u2122t be fooled"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "0dba1f140a68f5a695511e420489b0515666930d",
+  "elements": "[10,0,3,23,19,4,13,5,4,0,0]",
+  "image": "https://ipfs.io/ipfs/QmYzxQGHk3rNDq8dzW79PY3sVdRbBmbbG8qXj354EBhaWz?filename=6039.png"
+}

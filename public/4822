@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4822",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Staff",
+      "description": "A gold-plated staff passed down through generations now serves as a symbol of diplomacy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Uniform",
+      "description": "Light clothing, good for fast travel. Its yellow color is obtained from the golden sands of the deserts of Etcal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Green in color, often worn by those who experiment with farming"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Glance",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "8d5a762e70ef1df840594bca387f86622c7f57b7",
+  "elements": "[10,11,0,30,5,5,13,13,0,0,4]",
+  "image": "https://ipfs.io/ipfs/QmazGVbGrfSdqRuNJKUV1joK8QMcYH4xqd4gqEibq7n5as?filename=4822.png"
+}

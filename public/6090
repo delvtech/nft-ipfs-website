@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6090",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Cape",
+      "description": "Ritualistic attire comes to life as individual facets intertwine both moonlight and campfire"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Yellow is a mark of status but also of greed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "69b53896785a7b22023d8450bf642b3c86b79a17",
+  "elements": "[5,16,0,3,21,2,13,15,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmczTnnMmGKBhT3xrzqKUfhppySGmFWCnXr49Gd1bGQgrz?filename=6090.png"
+}

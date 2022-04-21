@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5439",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple Mist",
+      "description": "The skies glimmer with mysterious purple vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Left Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather. It gives off a particular shine, as if emitting its own light"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Veil",
+      "description": "Luxurious veil worn in celebratory fashion, each golden strand represents their wearer's lineage"
+    }
+  ],
+  "hash": "0fcf626e3746e00737084e89da344549cba5c30d",
+  "elements": "[8,15,3,20,0,14,8,1,4,0,7]",
+  "image": "https://ipfs.io/ipfs/QmUNQ23tnDfRFWFtwczE5ZPMiVACg4hfMz2qYEdjmfjN4i?filename=5439.png"
+}

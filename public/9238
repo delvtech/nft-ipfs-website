@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9238",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Right Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Exoskeleton",
+      "description": "A hardened exoskeleton of armor readies you for battle. You feel empowered and weightless."
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None",
+      "description": "Those who feel no need to speak sometimes have the most wisdom to impart"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Necklace",
+      "description": "A necklace worn by the attendants of court while plotting political plays"
+    }
+  ],
+  "hash": "077f13d1117c5fc17d0985eba1e17ca215ba9f5c",
+  "elements": "[6,18,3,6,24,0,8,14,0,0,8]",
+  "image": "https://ipfs.io/ipfs/QmTbVp4Udw1J5TW2ZbzbuBPCnPAVPiB4DX7Soee4ijKGoU?filename=9238.png"
+}

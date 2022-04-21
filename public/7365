@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7365",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Bow",
+      "description": "Gold-plated bows wielded by those of high status"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Ponytail",
+      "description": "Styled in the latest fashion, the wearer\u00e2\u20ac\u2122s care and attention to detail is apparent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Blue",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Dark",
+      "description": "Big dark eyes ready to take in all the world has to offer, yet give nothing back"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "7b870dba244e7efa5aea8c71e3a48eb495b6b2ad",
+  "elements": "[5,7,0,25,8,12,1,2,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmS9MjkZAaP4YZBQNLGoPNiprPbq3a7G2VxBJ14fv8JbLt?filename=7365.png"
+}

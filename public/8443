@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8443",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Portal",
+      "description": "Blue portal that transfers users across the many Valleys of Yield and Principal"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Mohawk",
+      "description": "Untamed white hair channels the wisdom of the Ancients"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Pink",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Glance",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "10eb6186ee78b1228428be9e0b03a7877114309b",
+  "elements": "[2,0,3,25,17,8,0,9,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmQNzjpXWGADGvf1yfcqgoMjTVuAVPsaJ3DNHJ2aaB3kBL?filename=8443.png"
+}

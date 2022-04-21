@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6204",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Cape",
+      "description": "Traditional ritualistic attire favored by warriors as well as researchers innovating novel farming methods"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Green in color, often worn by those who experiment with farming"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Red",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Glance",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "fbd0b79d74490afea83a748cdc13c8573e984838",
+  "elements": "[10,0,0,23,5,1,2,9,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmSvBVM8MjcJuDdPsAvoXokBvtvEbnGC5ZpHxQhP68vfrV?filename=6204.png"
+}

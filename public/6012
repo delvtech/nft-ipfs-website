@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6012",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Good Night",
+      "description": "A starry night full of pinpoints of distant opportunity"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Green Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Cape",
+      "description": "Ritualistic attire comes to life as individual facets intertwine both moonlight and campfire"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Blue in color, often worn by scholarly individuals"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Blue",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Yellow",
+      "description": "Big golden eyes shine with glee and enthusiasm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "70cd1c1b9d1407d9b1d9663aaf37095b52c0b430",
+  "elements": "[4,12,1,3,1,4,12,4,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmYGiSdwuRhKn18s8Q4orkrRSP7pbw1QkXS3D8fxT9rUN3?filename=6012.png"
+}

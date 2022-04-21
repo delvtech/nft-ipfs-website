@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6276",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ice Lance",
+      "description": "Songs of old told of weapons made of unbreakable, never-melting ice, carried by elite soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Straps",
+      "description": "These straps aid with farming even in unwelcoming conditions, raising untapped potential from the earth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Side Eye",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Golden Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "e53be16b6448cc7d158b84c026678378100efb38",
+  "elements": "[7,13,4,13,0,5,1,10,6,0,0]",
+  "image": "https://ipfs.io/ipfs/QmQqXSmw8moShfxR8TXFdecvy4BGovzP7WcHm6WVdfZYyB?filename=6276.png"
+}

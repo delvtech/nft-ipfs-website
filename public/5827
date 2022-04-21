@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5827",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather. It gives off a particular shine, as if emitting its own light"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Yellow in color, often worn by those adept at precision work"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Glance",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Earrings",
+      "description": "Studded with golden gems, these earrings make a bold statement"
+    }
+  ],
+  "hash": "75cf4a5e86ea77aba61dcc34b550bc520ee5d8f3",
+  "elements": "[10,0,4,20,20,11,0,6,0,0,6]",
+  "image": "https://ipfs.io/ipfs/QmUL86FV3amrgdqA4WmkdNyxQ9gpmpu9rk3HsnGXVcTtk7?filename=5827.png"
+}

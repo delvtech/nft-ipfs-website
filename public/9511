@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9511",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale",
+      "description": "The skin of Elfis whose generations have spent their time among the trees of the Forests of Yield has become green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Cape",
+      "description": "Ritualistic attire comes to life as individual facets intertwine both moonlight and campfire"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Yellow",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch",
+      "description": "Many elves use eyepatches to attune their vision to darkness. Some say it also improves their luck"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "96dc8103001df08ed83242931c8dc93499b712d4",
+  "elements": "[3,0,2,3,19,2,11,1,5,3,0]",
+  "image": "https://ipfs.io/ipfs/QmcL8CzV5gA4wfCaWSMN3EGRTnYuafUYoojKeDVnF9cqPy?filename=9511.png"
+}

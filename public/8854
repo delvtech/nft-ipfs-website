@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8854",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Good Night",
+      "description": "A starry night full of pinpoints of distant opportunity"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Draconic Lance",
+      "description": "Draconic lances wielded by tribes of elves as fierce and wild as their prey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Cape",
+      "description": "Ritualistic attire comes to life as individual facets intertwine both moonlight and campfire"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Blue",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Glance",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "White Nasotube",
+      "description": "Enhanced oxygen filtration conveys a distinct advantage on the battlefield"
+    }
+  ],
+  "hash": "98f3c8050319f13577dab244259b571c85fff548",
+  "elements": "[4,5,1,3,0,10,6,6,4,0,9]",
+  "image": "https://ipfs.io/ipfs/QmUnXvXsZC6LfXxSLVViBWMkLX785F6Jp5BbZUmRwSuC8c?filename=8854.png"
+}

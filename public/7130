@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7130",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Good Night",
+      "description": "A starry night full of pinpoints of distant opportunity"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Panoply",
+      "description": "This quartz-infused suit hardens you for battle. You\u00e2\u20ac\u2122ll go to any lengths to follow orders"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Yellow is a mark of status but also of greed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Yellow",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Side Eye",
+      "description": "Some elves are always suspicious of their surroundings, and can\u00e2\u20ac\u2122t be fooled"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "9a9c54db904a45aed34f1ba7d2f1b2d6df053342",
+  "elements": "[4,0,4,18,21,2,3,5,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmSmgAsZtr5GmskYJH9cPMk2qJQa24bR8XfATaJ5VVNhcx?filename=7130.png"
+}

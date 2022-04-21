@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7270",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Breastplate",
+      "description": "Full-body armor made with the scales of ancient dragons. Although said to still roam the land, nobody has seen them since the fall of Mount Qogs"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Nasotube",
+      "description": "Enhanced oxygen filtration conveys a distinct advantage on the battlefield"
+    }
+  ],
+  "hash": "6c643593833ac3a56e0461ab467cfa8ef7bfd0a4",
+  "elements": "[1,0,3,10,0,6,0,18,0,0,2]",
+  "image": "https://ipfs.io/ipfs/QmSqVtvVgD5GRRVL66eQCajfGSLbTHf4kMT9FnyWSQgBRn?filename=7270.png"
+}

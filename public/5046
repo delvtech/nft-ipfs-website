@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5046",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Blue represents liquidity and mastery of diplomacy"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Dark",
+      "description": "Big dark eyes ready to take in all the world has to offer, yet give nothing back"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dark Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "f93e356822c25a770e64ce9939a79684f10472c3",
+  "elements": "[7,0,3,1,9,14,0,2,4,0,0]",
+  "image": "https://ipfs.io/ipfs/QmXhJ16edugBE7goyZ8vioxFYRCRaLf4G2uiV4GRWaznrd?filename=5046.png"
+}

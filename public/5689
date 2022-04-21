@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5689",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Warm Sunrise",
+      "description": "Sunrise across Principal Valley to signify a new light and journey"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Red used to represent the Degen faction, but now is worn by all"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Blue in color, often worn by scholarly individuals"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Grey",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "White Nasotube",
+      "description": "Enhanced oxygen filtration conveys a distinct advantage on the battlefield"
+    }
+  ],
+  "hash": "eb543acb2aad108435161ceac214464af9528b3b",
+  "elements": "[10,0,1,22,1,9,9,14,0,0,9]",
+  "image": "https://ipfs.io/ipfs/QmW57oUZBLQif6ChfmphiMwZURHtDcPVL2Lj2K2YRR9Nrq?filename=5689.png"
+}

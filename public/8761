@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8761",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Longsword",
+      "description": "Massive broadsword ready to fell anything in its path"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Yellow in color, often worn by those adept at precision work"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Glance",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Earrings",
+      "description": "Studded with golden gems, these earrings make a bold statement"
+    }
+  ],
+  "hash": "3089e81ea0b032e79eb0d48184fb4555d613f06e",
+  "elements": "[3,3,0,25,20,4,6,13,0,0,6]",
+  "image": "https://ipfs.io/ipfs/QmfLCuEN1LL2FAYtqoTUbFAZwZGsvgHD5W26gPzexbaupQ?filename=8761.png"
+}

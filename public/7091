@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7091",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ice Lance",
+      "description": "Songs of old told of weapons made of unbreakable, never-melting ice, carried by elite soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Exoskeleton",
+      "description": "A hardened exoskeleton of armor readies you for battle. You feel empowered and elegant."
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Dark",
+      "description": "Big dark eyes ready to take in all the world has to offer, yet give nothing back"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "90556009ddfa12b547b4c449a95fefc7f331f85c",
+  "elements": "[5,13,3,17,24,4,10,2,5,0,0]",
+  "image": "https://ipfs.io/ipfs/QmUeSmJxn9umUhLt47AAhrbeaRsTKARr5fXUz6uNWfbhpk?filename=7091.png"
+}

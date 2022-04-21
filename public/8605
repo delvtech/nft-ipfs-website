@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8605",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Right Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Mohawk",
+      "description": "Elven hair that grows wild and untamed is a sign of raw magical potential"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Glance",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Hunter Scope",
+      "description": "The latest research and innovation allows the wearer to ascertain another\u00e2\u20ac\u2122s degen level"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "a3c8a15a4689da4f6da729ba00d21cb97337bd14",
+  "elements": "[7,18,1,25,7,3,13,13,0,4,1]",
+  "image": "https://ipfs.io/ipfs/QmTHW3M8dLwRE3M1ewsWBRSXGhJczWWa3Uotsfr5ek3Gao?filename=8605.png"
+}

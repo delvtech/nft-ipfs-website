@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7116",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold",
+      "description": "Eyes as gold as sunlight convey friendliness, but don\u00e2\u20ac\u2122t mistake it for complacency"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Golden Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Draconic Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "413bf7595038293a814907e3c7cab69aae612508",
+  "elements": "[1,16,0,25,19,9,6,11,6,0,3]",
+  "image": "https://ipfs.io/ipfs/QmVYZ89Gjq35y3L6XqyZLBaoYAACJinsDtJzdH645T72pL?filename=7116.png"
+}

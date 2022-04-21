@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4755",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Good Night",
+      "description": "A starry night full of pinpoints of distant opportunity"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Longsword",
+      "description": "An ominous blade that shimmers with imbued power and incantation"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. White with wisdom and ancient knowledge"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Blue",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Yellow",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Side Eye",
+      "description": "Some elves are always suspicious of their surroundings, and can\u00e2\u20ac\u2122t be fooled"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Draconic Mask",
+      "description": "Worn for feasts and revelrie, or tricksters looking to give nothing away"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "b9536def21a84eb419f88c03f60317098bb9c622",
+  "elements": "[4,17,3,5,16,12,3,5,0,2,0]",
+  "image": "https://ipfs.io/ipfs/QmbtLymsm56UUKs8dSS8QrVBMxEKhLs93yvFq4dmd22XZB?filename=4755.png"
+}

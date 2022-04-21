@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7373",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Bow",
+      "description": "Dark bows draw no attention, allowing their user to slither in the night"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather. It gives off a particular shine, as if emitting its own light"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Red in color, often worn by those who possess great stamina"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Pink",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "1bd98847566a04bddc880b0dfe5414edb0f85091",
+  "elements": "[1,2,0,20,11,13,13,15,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmT4rR9w6oCRBy8Bs2pqQZcFLWdGiXvk8VjQN5vsW7GJTd?filename=7373.png"
+}

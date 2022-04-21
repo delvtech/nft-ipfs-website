@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6208",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Yellow is both opulent and ostentatious"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap",
+      "description": "Somehow lighter than a feather, the magical stones used in this cap make you feel constantly energized"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Draconic Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "9e2927d7bd7751bdc41f2c2b8fdedd087114e018",
+  "elements": "[7,8,1,15,9,5,10,1,2,0,3]",
+  "image": "https://ipfs.io/ipfs/QmU556E9RUBCauRGgQmuneyHBT84qs1hZNHVsGcg95Npgm?filename=6208.png"
+}

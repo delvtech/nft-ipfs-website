@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5302",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Portal",
+      "description": "Blue portal that transfers users across the many Valleys of Yield and Principal"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Right Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Yellow in color, often worn by those adept at precision work"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Blue",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "bc5954b5d0f507737109361ae1416e92dc7f8f81",
+  "elements": "[2,18,5,14,20,12,0,14,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmWbN9J9a3DaV7wLuL32NKboBySrYcG4uNejy1XyoteXKc?filename=5302.png"
+}

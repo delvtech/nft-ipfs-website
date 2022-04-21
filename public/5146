@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5146",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Ponytail",
+      "description": "Styled in the latest fashion, the wearer\u00e2\u20ac\u2122s care and attention to detail is apparent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Blue",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Red",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "e87b891147895a4a0c551141724d940678ffa3b2",
+  "elements": "[6,0,1,14,14,7,14,18,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmZVUhpqyWKvwZG7XatAdzH8YycRBrWZcNJ4uZjfwkAwd9?filename=5146.png"
+}

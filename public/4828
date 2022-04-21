@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4828",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Robes",
+      "description": "Dyed with the crushed powder of their enemies\u00e2\u20ac\u2122 bones, only the most crazen Degen wear them"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Grey",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Necklace",
+      "description": "A necklace worn by the attendants of court while plotting political plays"
+    }
+  ],
+  "hash": "bf770dba4cc7f836ec240c1de0ca0e7574a6f7cc",
+  "elements": "[5,0,0,24,24,9,9,3,5,0,8]",
+  "image": "https://ipfs.io/ipfs/QmVBwpwJwiUgxCPHsdpoaC7LriLmzuzem45oXR1kxxYs5K?filename=4828.png"
+}

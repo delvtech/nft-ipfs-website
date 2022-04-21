@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8163",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Green Uniform",
+      "description": "Light clothing, good for fast travel. Its green color is obtained from the peels of Yield Fruits, which thrive during the summer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. White with wisdom and ancient knowledge"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Pink",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "f5cf21ff56fbe68789f3f4d52359ec86657850f4",
+  "elements": "[6,0,0,21,16,13,13,15,0,0,4]",
+  "image": "https://ipfs.io/ipfs/QmcjABCuGZEEwYL24ogs9Yrce4jrVymd3vkyDcprdbsoGk?filename=8163.png"
+}

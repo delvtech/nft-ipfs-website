@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7376",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Longsword",
+      "description": "Massive broadsword ready to fell anything in its path"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Cape",
+      "description": "Traditional ritualistic attire whose yellow color symbolizes the sharing of wisdom"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold",
+      "description": "Eyes as gold as sunlight convey friendliness, but don\u00e2\u20ac\u2122t mistake it for complacency"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap",
+      "description": "Somehow lighter than a feather, the magical stones used in this cap make you feel constantly energized"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "ce7828b1658151f4ce01009e2b0a59ee7f1d00cd",
+  "elements": "[7,3,4,28,0,1,0,11,2,0,0]",
+  "image": "https://ipfs.io/ipfs/QmcN9H5wrG7Ja8ApgPwtMkFREMpC9dCkvcXb7VYTXB8fv2?filename=7376.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6807",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Longsword",
+      "description": "Massive broadsword ready to fell anything in its path"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Blue like the depth of the Sea of Liquidity"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Blue",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Glance",
+      "description": "Yellow eyes shine with warmth that makes others more obedient"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Necklace",
+      "description": "A necklace worn by the attendants of court while plotting political plays"
+    }
+  ],
+  "hash": "79e07713e466f222a24a58e9dcf9127bb61de46d",
+  "elements": "[1,3,0,5,2,10,6,17,0,0,8]",
+  "image": "https://ipfs.io/ipfs/QmYsbcaanzY37dtpASykSRRUd4nLLnUdesEmZTWrdT4DqX?filename=6807.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8832",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Left Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Robes",
+      "description": "Made from a fabric of magically-treated quartz, these robes are said to amplify their wearer\u00e2\u20ac\u2122s magical output"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting Red",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold",
+      "description": "Eyes as gold as sunlight convey friendliness, but don\u00e2\u20ac\u2122t mistake it for complacency"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Yellow Mage Hat",
+      "description": "Woven by the owner's magic, it imbues a fragment of the Wizard's soul. Yellow represents its creator's ambition"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "f7544a0363ce39c9e7b984e5c1832bf02c8b05a3",
+  "elements": "[5,15,0,4,24,14,5,11,10,0,0]",
+  "image": "https://ipfs.io/ipfs/QmfLnRttgpeA1Uvp7DxMspnwMgZ3vksorp2TUHnNucY9qn?filename=8832.png"
+}

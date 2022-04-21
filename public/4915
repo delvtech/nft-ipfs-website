@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4915",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Robes",
+      "description": "Made from a fabric of woven gold, these robes allow their wearer to channel the power of the sun much more effectively"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Red in color, often worn by those who possess great stamina"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None",
+      "description": "Those who feel no need to speak sometimes have the most wisdom to impart"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Red",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "672ac7fea96f5a977fc0a53dd254c95c53174fab",
+  "elements": "[5,0,0,29,11,0,14,3,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmTScXZVaVrvYeFQ4Z2zdGyykxHJbGTUwrJe2LQ7PQYR2c?filename=4915.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5994",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Robes",
+      "description": "Dyed with the crushed powder of their enemies\u00e2\u20ac\u2122 bones, only the most crazen Degen wear them"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Blue in color, often worn by scholarly individuals"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Red",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "baacdf13bb3ef9ddf6a5f11e10aa6145673b9c18",
+  "elements": "[3,0,1,24,1,11,2,3,0,0,4]",
+  "image": "https://ipfs.io/ipfs/Qme9dHJK2JXpEfodogjtAuNYRwjjVCaHfKBtKFHtjKkKRA?filename=5994.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6700",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Portal",
+      "description": "Blue portal that transfers users across the many Valleys of Yield and Principal"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Bow",
+      "description": "Gold-plated bows wielded by those of high status"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Uniform",
+      "description": "Light clothing, good for fast travel. Its red color is obtained from the leaves of Copium plants, commonly found on the Bearish Mountains"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headdress",
+      "description": "A tribute to the life-giving sun, this heavy helmet is mostly worn by high priests at harvest festivals"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "dfc7a1890f74724f55812dd75aa76f3b0f1d67e9",
+  "elements": "[2,7,1,25,19,14,8,14,7,0,0]",
+  "image": "https://ipfs.io/ipfs/QmaazaAPWReRnGHVmVwhWdB5u9GY5AgVar6WVHyNvBy9Lj?filename=6700.png"
+}

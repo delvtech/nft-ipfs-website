@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6535",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red Portal",
+      "description": "A red portal signifies strife and battle"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Left Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Straps",
+      "description": "Dark straps provide flexibility and function for all kinds of tasks, both day and night"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Blue",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "346e04d110cf8e3815f8bd58d76dbbc841105054",
+  "elements": "[9,15,1,8,0,12,6,1,5,0,0]",
+  "image": "https://ipfs.io/ipfs/Qma6YYnKHivw4H2aNTcP2ubEwChFihM454ouHtFSKZSZSu?filename=6535.png"
+}

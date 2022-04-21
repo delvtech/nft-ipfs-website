@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8208",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Portal",
+      "description": "Blue portal that transfers users across the many Valleys of Yield and Principal"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Robes",
+      "description": "Infused with the magical properties of moonlight, these robes are said to improve the effects of healing magics"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. White with wisdom and ancient knowledge"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Dark",
+      "description": "Big dark eyes ready to take in all the world has to offer, yet give nothing back"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "d2fe398f2c2ec669d3c72c4dc652d04865ab0b98",
+  "elements": "[2,0,1,26,16,1,8,2,0,0,4]",
+  "image": "https://ipfs.io/ipfs/Qmay4NXLKofuihPMATHEzVHBrGotpV6HyTyRqSkpzLcWbC?filename=8208.png"
+}

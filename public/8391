@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8391",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Draconic Lance",
+      "description": "Draconic lances wielded by tribes of elves as fierce and wild as their prey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale",
+      "description": "The skin of Elfis whose generations have spent their time among the trees of the Forests of Yield has become green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Robes",
+      "description": "Made from a fabric of magically-treated quartz, these robes are said to amplify their wearer\u00e2\u20ac\u2122s magical output"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Blue",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Side Eye",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "1a0e43095c5764b5ae7a02a6c04898fdcef51daf",
+  "elements": "[1,5,2,4,24,10,1,14,5,0,4]",
+  "image": "https://ipfs.io/ipfs/QmVwWjw2e3xu2BqnyNdBdjdMk3io5Z1sYwVi7BfAhBJT52?filename=8391.png"
+}

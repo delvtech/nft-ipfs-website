@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8823",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blood River",
+      "description": "Blood river that is shown to those with a future of battle or strife"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Cape",
+      "description": "Ritualistic attire comes to life as individual facets intertwine both moonlight and campfire"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Grey in color, often worn by those who have a way with words"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Red",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "4c43a95636db38f342856ea7e88bad256032306f",
+  "elements": "[0,8,5,3,10,6,2,18,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmYAR84mrbCSJJvbYhG4eJbW5mFKVDyurk7yK5DTqxiYaA?filename=8823.png"
+}

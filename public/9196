@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9196",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red Portal",
+      "description": "A red portal signifies strife and battle"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Bow",
+      "description": "Gold-plated bows wielded by those of high status"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Yellow is both opulent and ostentatious"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headdress",
+      "description": "A tribute to the life-giving sun, this heavy helmet is mostly worn by high priests at harvest festivals"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "6d4df676d69fef528a0b1e1ee18824b74eb2869d",
+  "elements": "[9,7,3,15,24,4,10,18,7,0,0]",
+  "image": "https://ipfs.io/ipfs/QmWZ3UQVk8oR74dLWQDHYPQYUcRmVvSezTKJid5NsxntUz?filename=9196.png"
+}

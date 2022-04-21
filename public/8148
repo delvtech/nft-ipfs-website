@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8148",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple Mist",
+      "description": "The skies glimmer with mysterious purple vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Straps",
+      "description": "Dark straps provide flexibility and function for all kinds of tasks, both day and night"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Grey in color, often worn by those who have a way with words"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "0d14e02e32b9495c11d23c43a1f39c5395e3df7b",
+  "elements": "[8,16,1,8,10,4,6,1,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmPoQCta1pN7qNDBsRRLqfbRmz6hMiD1W5SAoCNpMYptdF?filename=8148.png"
+}

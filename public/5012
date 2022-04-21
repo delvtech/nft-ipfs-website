@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5012",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Left Quartz Sword",
+      "description": "Elves possess unparalleled quartz craftsmanship, through which they imbue their weapons with eternal sharpness"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Uniform",
+      "description": "Light clothing, good for fast travel. Its blue color is obtained from Liquidity Flowers, found near all kinds of shores"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Red",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Side Eye",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Mage Hat",
+      "description": "Woven by the owner's magic, it imbues a fragment of the Wizard's soul. Red represents its creator's passion"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "fbc30fed34c883ba97e3d7fe523e48a65eaf3d32",
+  "elements": "[6,15,3,5,0,1,14,7,8,0,0]",
+  "image": "https://ipfs.io/ipfs/QmXGngnMSz5MzyKfLE943mSzbBxM1qsUJw1dJS2Usdb4Bf?filename=5012.png"
+}

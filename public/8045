@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8045",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blood River",
+      "description": "Blood river that is shown to those with a future of battle or strife"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Tunic",
+      "description": "This tight-fitting outfit is reserved for night-time missions, as sunlight tends to damage leather. It gives off a particular shine, as if emitting its own light"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Pink",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Side Eye",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown",
+      "description": "Gem-studded crown used by high priests for ancient rituals, heightening their already impressive powers"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Draconic Mask",
+      "description": "Worn for feasts and revelrie, or tricksters looking to give nothing away"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Draconic Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "3f162766c989d97550a9d1b10e180658d8738bd4",
+  "elements": "[0,0,1,20,15,4,0,10,3,2,3]",
+  "image": "https://ipfs.io/ipfs/QmWxsoJM9qcDAuGENTJEMk56AKJgnaDZRFm9qnkSiXKYGc?filename=8045.png"
+}

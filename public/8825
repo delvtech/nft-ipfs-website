@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8825",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Green Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale",
+      "description": "The skin of Elfis whose generations have spent their time among the trees of the Forests of Yield has become green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Exoskeleton",
+      "description": "A hardened exoskeleton of armor readies you for battle. You feel empowered and impervious to heat."
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Mohawk",
+      "description": "Wild red hair like the color of battle makes others wary, for good reason or not"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Red",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Side Eye",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "5ec715d165011cb33128c1753d698e22618f8f0b",
+  "elements": "[1,12,2,11,13,6,14,10,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmX5F8L6QRN691sScWfUAQjX7uJToJweaHHn37gizMVgcd?filename=8825.png"
+}

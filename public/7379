@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7379",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Draconic Lance",
+      "description": "Draconic lances wielded by tribes of elves as fierce and wild as their prey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Robes",
+      "description": "Dyed with the crushed powder of their enemies\u00e2\u20ac\u2122 bones, only the most crazen Degen wear them"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Mohawk",
+      "description": "Unruly blue hair is characteristic of the most profound researchers in arcane types of liquidity"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting Blue",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "a16ba5b97cfba82433790adb084152d46eefd552",
+  "elements": "[6,5,3,24,3,9,4,15,0,0,0]",
+  "image": "https://ipfs.io/ipfs/Qmc5CSLvWasksUE286xJDP67TtZjnb2wqt4Jc9yrHgeybE?filename=7379.png"
+}

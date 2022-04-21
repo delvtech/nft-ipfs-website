@@ -1,0 +1,67 @@
+{
+  "name": "Elf #7343",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Bow",
+      "description": "Gold-plated bows wielded by those of high status"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Red used to represent the Degen faction, but now is worn by all"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Red is favored by those quick to action"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Red",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch",
+      "description": "Many elves use eyepatches to attune their vision to darkness. Some say it also improves their luck"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "9c0020898567f7ec163345ca537bb1ef095454bf",
+  "elements": "[3,7,3,22,12,11,14,8,0,3,0]",
+  "image": "https://ipfs.io/ipfs/QmQBAijryeXjKDkm6tKNfAHZ36n12eRG3wY2WHqsZzdYE3?filename=7343.png"
+}

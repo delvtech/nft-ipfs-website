@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5608",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None",
+      "description": "Some elves shun the moral rigitude of society in favor of being one with nature"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Green like the spoils of a fresh harvest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Yellow",
+      "description": "Big golden eyes shine with glee and enthusiasm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "280394724659d933fc622bd24bd7dc3f85fadbda",
+  "elements": "[7,0,1,0,6,2,0,4,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmZg9Ah8RYJqZfPquNtuVoVaYKzMRaG3G6mSYXdKoeepZM?filename=5608.png"
+}

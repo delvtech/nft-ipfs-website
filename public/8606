@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8606",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red",
+      "description": "Red Elves are believed to be descendants of the Ancestral Degens, whose skin was tempered by the fiery forges of the Degen Inferno"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Cape",
+      "description": "Ritualistic attire comes to life as individual facets intertwine both moonlight and campfire"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Blue",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Blue",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Glance",
+      "description": "Yellow eyes shine with warmth that makes others more obedient"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Mage Hat",
+      "description": "Woven by the owner's magic, it imbues a fragment of the Wizard's soul. White represents its creator's power over others"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "0cc0012fcf12acc4f58296c3c71d5e8e83f31d32",
+  "elements": "[6,0,4,3,0,7,12,17,9,0,0]",
+  "image": "https://ipfs.io/ipfs/QmVpB43K2v1ieJtgCU6JLo6WTygwFVgKqHZsJabpjPeXvT?filename=8606.png"
+}

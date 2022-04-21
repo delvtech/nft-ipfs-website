@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8979",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Longsword",
+      "description": "Massive broadsword ready to fell anything in its path"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Robes",
+      "description": "Made from a fabric of woven gold, these robes allow their wearer to channel the power of the sun much more effectively"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "605f77c4c361fb9dc1197c8487ca79619c49a65b",
+  "elements": "[7,3,5,29,15,5,1,3,5,0,0]",
+  "image": "https://ipfs.io/ipfs/QmNxs8r65NdDrtqkpQQPK8YgbpdL8PaAyhPLbmjgDUeMwV?filename=8979.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5828",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dark Longsword",
+      "description": "Massive broadsword ready to fell anything in its path"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Robes",
+      "description": "Infused with the magical properties of moonlight, these robes are said to improve the effects of healing magics"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None",
+      "description": "Those who feel no need to speak sometimes have the most wisdom to impart"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown",
+      "description": "Gem-studded crown used by high priests for ancient rituals, heightening their already impressive powers"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "4373b81a3fb4a59f72e157160295a164ccbdd0bf",
+  "elements": "[1,3,3,26,24,0,1,3,3,0,0]",
+  "image": "https://ipfs.io/ipfs/Qmdce2isJ6gsGtExF22AiGvqGq3sxk3ZKTKmVWodSQczLq?filename=5828.png"
+}

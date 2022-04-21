@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8176",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Exoskeleton",
+      "description": "A hardened exoskeleton of armor readies you for battle. You feel empowered and impervious to heat."
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Yellow is a mark of status but also of greed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Blue",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting Blue",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark Side Eye",
+      "description": "Dark eyes are better for not drawing attention and capture more detail in the night"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Hunter Scope",
+      "description": "The latest research and innovation allows the wearer to ascertain another\u00e2\u20ac\u2122s degen level"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "b54c679b7bf3df6be8f4b4507acd03a9d950b72c",
+  "elements": "[6,0,3,11,21,7,4,7,0,4,0]",
+  "image": "https://ipfs.io/ipfs/QmPuhZTcecnRGNbwbSSz6oA28b3gRiRP97XBJBQTZxxYuh?filename=8176.png"
+}

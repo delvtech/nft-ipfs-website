@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6422",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blood River",
+      "description": "Blood river that is shown to those with a future of battle or strife"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Green Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Straps",
+      "description": "Dark straps provide flexibility and function for all kinds of tasks, both day and night"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Hair Bun",
+      "description": "Long hair tied in a bun, to combat the heat of labour. Blue in color, often worn by scholarly individuals"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting White",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Side Eye",
+      "description": "Yellow eyes shine with warmth that makes others more obedientambition"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "5a855693a9ec3cbbfbef6bee8609d46e176ad2ae",
+  "elements": "[0,12,1,8,1,1,6,18,0,0,5]",
+  "image": "https://ipfs.io/ipfs/QmX9EmgUKE6ToAdaw4HVQac5CEs6SoFjtmpMHjGjCutCG9?filename=6422.png"
+}

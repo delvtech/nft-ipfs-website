@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8145",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light",
+      "description": "The icy peaks of the Bearish Mountains are said to be home to Elfis whose skin is paler than snow"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Panoply",
+      "description": "This quartz-infused suit hardens you for battle. You feel lighter when wearing it."
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None",
+      "description": "The freedom of not having hair allows one to be more productive with their day"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad Red",
+      "description": "Those who don\u00e2\u20ac\u2122t smile are their own harshest critics"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None",
+      "description": "Those with no eyes sometimes see most clearly"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown",
+      "description": "Gem-studded crown used by high priests for ancient rituals, heightening their already impressive powers"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "d0c7c3c1a821986aca1c5f549c1489ab45bcb09a",
+  "elements": "[3,0,1,7,0,9,1,0,3,0,0]",
+  "image": "https://ipfs.io/ipfs/QmSEpH7iRQLjQKrgaR3FzE7N4A1UhngUiuMtP9R8cuQz7s?filename=8145.png"
+}

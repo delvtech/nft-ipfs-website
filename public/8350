@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8350",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Portal",
+      "description": "A green portal signifies balance in all things"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Ice Lance",
+      "description": "Songs of old told of weapons made of unbreakable, never-melting ice, carried by elite soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow Robes",
+      "description": "Made from a fabric of woven gold, these robes allow their wearer to channel the power of the sun much more effectively"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Mohawk",
+      "description": "Chaotic golden locks symbolize great power over others, how it\u00e2\u20ac\u2122s used remains to be seen"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Blue",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Yellow",
+      "description": "Conveying but a neutral expression, giving nothing away"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "796e2d47d2a0f5b4b26550f50b0d505df1b3aea6",
+  "elements": "[6,13,0,29,22,10,11,1,0,0,4]",
+  "image": "https://ipfs.io/ipfs/QmNg6eQ9Kn6uHaocCRoAbZmbyfqVcXTJmZqGiEZ8Wcr1Qn?filename=8350.png"
+}

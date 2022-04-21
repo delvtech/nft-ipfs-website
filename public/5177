@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5177",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red Portal",
+      "description": "A red portal signifies strife and battle"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Draconic Bow",
+      "description": "Draconic markings bode ill for those standing in its way"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Breastplace",
+      "description": "Full-body armor made of gold and worn by elite warriors. The magical quartz infused in it makes it lighter than fabric"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral Blue",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold",
+      "description": "Eyes as gold as sunlight convey friendliness, but don\u00e2\u20ac\u2122t mistake it for complacency"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Hunter Scope",
+      "description": "The latest research and innovation allows the wearer to ascertain another\u00e2\u20ac\u2122s degen level"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "771775fc38823d8f41b7aeaca197d15bc4fa43a1",
+  "elements": "[9,4,0,16,9,3,0,11,5,4,0]",
+  "image": "https://ipfs.io/ipfs/QmVFsAiVmajMcoxMKM38qy7FfZf36gggCiWbQ9bvLYisMN?filename=5177.png"
+}

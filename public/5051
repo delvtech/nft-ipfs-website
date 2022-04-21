@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5051",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Clear Skies",
+      "description": "Clear skies signal peace and tranquility"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Blouse",
+      "description": "Clothes worn by nobility on diplomatic events. Yellow is both opulent and ostentatious"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Mohawk",
+      "description": "Chaotic golden locks symbolize great power over others, how it\u00e2\u20ac\u2122s used remains to be seen"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Grey",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ice Glance",
+      "description": "Eyes as cold as ice are seen as unwelcoming, leading those who bear them to withdraw"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Nasotube",
+      "description": "Enhanced oxygen filtration conveys a distinct advantage on the battlefield"
+    }
+  ],
+  "hash": "0b44f755e8783fc0c198c0ee432e33732f9586cf",
+  "elements": "[3,0,0,15,22,1,13,13,0,0,2]",
+  "image": "https://ipfs.io/ipfs/QmXCXzdR3LZ8jfQaGhtxnwJdEWmW2xXJ5qBHudXSSwkDW6?filename=5051.png"
+}

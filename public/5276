@@ -1,0 +1,67 @@
+{
+  "name": "Elf #5276",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue Mist",
+      "description": "Soothing skies belie unknown futures"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pale",
+      "description": "The skin of Elfis whose generations have spent their time among the trees of the Forests of Yield has become green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Robes",
+      "description": "Dyed with the crushed powder of their enemies\u00e2\u20ac\u2122 bones, only the most crazen Degen wear them"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Mohawk",
+      "description": "Elven hair that grows wild and untamed is a sign of raw magical potential"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Blue",
+      "description": "Having been through much, few things surprise elves nowadays"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Red",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch",
+      "description": "Many elves use eyepatches to attune their vision to darkness. Some say it also improves their luck"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "0d8506234b491f2710c2d678deea0ca6c3fc7374",
+  "elements": "[1,0,2,24,7,1,12,3,0,3,0]",
+  "image": "https://ipfs.io/ipfs/QmXjiB8DTDB6G9MQnYnWUQK3MAMHZsZvZMBh1FAXNKjiVR?filename=5276.png"
+}

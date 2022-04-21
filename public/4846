@@ -1,0 +1,67 @@
+{
+  "name": "Elf #4846",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple Mist",
+      "description": "The skies glimmer with mysterious purple vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Golden Dual Swords",
+      "description": "Dual swords favored by the most degen tribes endlessly searching for the highest yields"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue",
+      "description": "Elves whose kin have been exposed to the deep blue waters of the Sea of Liquidity bear a blue tinge"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Dark Exoskeleton",
+      "description": "A hardened exoskeleton of armor readies you for battle. You feel empowered and weightless."
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blue Ponytail",
+      "description": "Styled in the latest fashion, the wearer\u00e2\u20ac\u2122s care and attention to detail is apparent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Blue",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow Glance",
+      "description": "Yellow eyes shine with warmth that makes others more obedient"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Hunter Scope",
+      "description": "The latest research and innovation allows the wearer to ascertain another\u00e2\u20ac\u2122s degen level"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Earrings",
+      "description": "A subdued style, only an astute eye will notice these earrings are adorned with the rarest gems"
+    }
+  ],
+  "hash": "2a02da8ebc011ffe66609abc4da27a9bd76c3a7f",
+  "elements": "[8,8,0,6,4,14,0,17,0,4,4]",
+  "image": "https://ipfs.io/ipfs/QmQttE6Sky6Ngfe5zuPU3uCD3D7eNUSCV1xv76cTZgV3tc?filename=4846.png"
+}

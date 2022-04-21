@@ -1,0 +1,67 @@
+{
+  "name": "Elf #8609",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple Mist",
+      "description": "The skies glimmer with mysterious purple vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Draconic Lance",
+      "description": "Draconic lances wielded by tribes of elves as fierce and wild as their prey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Draconic Straps",
+      "description": "These straps aid with farming even in unwelcoming conditions, raising untapped potential from the earth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Mohawk",
+      "description": "Elven hair that grows wild and untamed is a sign of raw magical potential"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stoic Red",
+      "description": "An idle expression that hides the busiest of minds"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Doubting Blue",
+      "description": "Elves are a naturally inquisitive lot, always doing their own research, skeptical of tall tales"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Glance",
+      "description": "Fire eyes that burn like the flames in the forges of the Ancient Builders"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "93a307e92654c4e73b5af49d91aed74511b77336",
+  "elements": "[8,5,5,13,7,11,4,9,0,0,1]",
+  "image": "https://ipfs.io/ipfs/Qmdj3YRXsouuANNA39UArgoK6b8JQtZvtFGhhM6pteHZrc?filename=8609.png"
+}

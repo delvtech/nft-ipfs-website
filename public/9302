@@ -1,0 +1,67 @@
+{
+  "name": "Elf #9302",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Mist",
+      "description": "The skies simmer with soothing green vapors"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Longsword",
+      "description": "An ominous blade that shimmers with imbued power and incantation"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Robes",
+      "description": "Dyed with the crushed powder of their enemies\u00e2\u20ac\u2122 bones, only the most crazen Degen wear them"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None",
+      "description": "Those who feel no need to speak sometimes have the most wisdom to impart"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Neutral Red",
+      "description": "Seeking balance in all things, as with their emotions"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Blue",
+      "description": "Big blue eyes full of wonder at the mysteries lying in wait"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Draconic Helmet",
+      "description": "Battle-tested helmet that invokes fear in their opponents"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Golden Earrings",
+      "description": "Studded with golden gems, these earrings make a bold statement"
+    }
+  ],
+  "hash": "7b88f211394cafcf9a2b8cdbba0bb90ba1392c3f",
+  "elements": "[5,17,3,24,9,0,10,1,5,0,6]",
+  "image": "https://ipfs.io/ipfs/QmWophubuqwnqfS57yervc5nbTePaC61uyF5NnzExn3NSe?filename=9302.png"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6799",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Adventurer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blood River",
+      "description": "Blood river that is shown to those with a future of battle or strife"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "None",
+      "description": "Those without weapons are the economic backbone of Elf society"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow",
+      "description": "Yellow elves are believed to be descendants of the Ancient Proposers, whose rules of governance still guide to this day"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Golden Straps",
+      "description": "Straps glisten as gold under the harsh sunlight, energizing those who wear them"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Long Hair",
+      "description": "Long hair worn worn loosely as if unconcerned with worldly matters. Red is favored by those quick to action"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Talking Blue",
+      "description": "Be wary of those who always have a story to tell"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Grey",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Yellow",
+      "description": "Big golden eyes shine with glee and enthusiasm"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None",
+      "description": "Headwear is reserved for those with the means and desire to show off"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "None",
+      "description": ""
+    }
+  ],
+  "hash": "ba9fb38bf3fdb8d10ac779e5cd4a0119fc8cdcd8",
+  "elements": "[0,0,5,19,12,12,1,4,0,0,0]",
+  "image": "https://ipfs.io/ipfs/QmZzYpwyJcFngYSytAtTqDAUadzzVKj4LkyNwyjXfXrEV9?filename=6799.png"
+}

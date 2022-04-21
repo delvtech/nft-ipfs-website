@@ -1,0 +1,67 @@
+{
+  "name": "Elf #6791",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange Mist",
+      "description": "Soothing vapors expand into the vast ether of existence"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Red Longsword",
+      "description": "An ominous blade that shimmers with imbued power and incantation"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink",
+      "description": "Exposure to the red arid soil of the Bullish Valleys has made the skin of each new generation become slightly more pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Robes",
+      "description": "Infused with the magical properties of moonlight, these robes are said to improve the effects of healing magics"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Yellow Short Hair",
+      "description": "Short hair is less frivolous and more practical, showing a focus on substance over style"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yellow Smile",
+      "description": "A smile conveys a world of meaning, yet its meaning isn\u00e2\u20ac\u2122t always certain"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Angry Yellow",
+      "description": "An elf is not quick to anger, so be wary of their consternation"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Glance",
+      "description": "Red eyes convey passion and desire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Mage Hat",
+      "description": "Woven by the owner's magic, it imbues a fragment of the Wizard's soul. Blue represents its creator's depth of knowledge"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None",
+      "description": "No need for eyewear, adventure is afoot"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "Dark Battle Mask",
+      "description": "Battle mask covering the wearer's mouth, it enhances oxygen intake and fearsomeness"
+    }
+  ],
+  "hash": "9018d175b329fd3a4b2f99982c6509b617966e83",
+  "elements": "[7,17,3,26,24,14,3,15,1,0,1]",
+  "image": "https://ipfs.io/ipfs/QmV7wc3idqKUf1GnJzCfBr8ZL6yhU7c9PWaXv8HLKZMoJu?filename=6791.png"
+}

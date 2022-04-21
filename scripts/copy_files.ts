@@ -1,14 +1,18 @@
-const fs = require("fs");
+import fs from "fs";
 
 console.log(__dirname);
 
-for (let i = 1; i <= 4700; i++) {
-  const filePath = `../metadatas/${i}`;
-  const filePathCopy = `../public/${i}`;
+async function copyFiles() {
+  for (let i = 4701; i <= 10_000; i++) {
+    const filePath = `./metadatas/${i}`;
+    const filePathCopy = `./public/${i}`;
 
-  fs.copyFile(filePath, filePathCopy, (err) => {
-    if (err) throw err;
+    await fs.copyFile(filePath, filePathCopy, (err) => {
+      if (err) throw err;
 
-    console.log("File Copy Successfully.");
-  });
+      console.log("File Copy Successfully.");
+    });
+  }
 }
+
+copyFiles();
